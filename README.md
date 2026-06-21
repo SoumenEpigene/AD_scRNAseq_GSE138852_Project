@@ -1,3 +1,36 @@
+# 🧠 AD_scRNAseq_GSE138852_Project
+
+## Reproducible Single-Cell RNA-seq Analysis of Alzheimer's Disease
+
+### Dataset
+- GEO accession: **GSE138852**
+- Tissue: Human entorhinal cortex
+- Species: *Homo sapiens*
+- Conditions:
+  - Alzheimer's disease (AD)
+  - Healthy control
+
+---
+
+## Workflow
+
+1. Data loading
+2. Quality control
+3. Normalization and scaling
+4. PCA and clustering
+5. UMAP visualization
+6. Cell-type annotation
+7. Differential expression analysis
+8. Volcano plot generation
+9. Heatmap visualization
+10. Gene Ontology enrichment
+11. Figure generation
+
+---
+
+## Project Structure
+
+```text
 AD_scRNAseq_GSE138852_Project
 │
 ├── Scripts
